@@ -1,0 +1,10 @@
+train: ./data/tracking/train
+val: ./data/tracking/val
+test: ./data/tracking/test
+
+#number of classes
+nc: 13
+
+#class names
+names: ['class2', 'class4', 'class3', 'class9', 'class5', 'class8', 'class1', 'class11',
+        'class6', 'class7', 'class10', 'class12', 'class13']
